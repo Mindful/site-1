@@ -7,64 +7,64 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://joshuatanner.dev/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/" />
  </url>
  <url>
   <loc>https://joshuatanner.dev/2021/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/archive.html</loc>
-  <lastmod>2021-03-07T05:19:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/blog/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/categories/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/galleries/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/2021/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/archive.html</loc>
-  <lastmod>2021-03-07T05:19:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/blog/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/categories/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/galleries/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/posts/test-post/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://joshuatanner.dev/posts/test-post/" />
  </url>
  <url>
   <loc>https://joshuatanner.dev/listings/</loc>
-  <lastmod>2021-03-07T05:01:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/posts/test-post/</loc>
-  <lastmod>2021-03-07T05:17:00Z</lastmod>
+  <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
 </urlset>
