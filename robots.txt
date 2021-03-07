@@ -1,0 +1,4 @@
+Sitemap: https://joshuatanner.dev/sitemapindex.xml
+
+User-Agent: *
+Host: joshuatanner.dev
