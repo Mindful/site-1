@@ -24,7 +24,7 @@ SITE_URL = "https://joshuatanner.dev/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://joshuatanner.dev/"
-BLOG_EMAIL = "josh@joshuatanner.dev"
+BLOG_EMAIL = "mindful.jt@gmail.com"
 BLOG_DESCRIPTION = {
     'en': "Personal website and technical blog." ,
     'ja': '個人サイト兼技術ブログ'
@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/about", "About"),
         ((('/development', 'Development'),
-          ("/interpreting", "Interpreting")),
+          ("/interpretation", "Interpretation")),
          'Work'),
         ("/projects", "Projects"),
         ((('/blog', 'Posts'),
@@ -153,12 +153,18 @@ NAVIGATION_LINKS = {
           ("/rss.xml", "RSS feed")),
          'Blog'),
     ),
-
-    "ja": (
-        ("/ja/archive.html", "過去記事一覧"),
-        ("/ja/categories/", "タグ"),
-        ("/ja/rss.xml", "RSSフィード"),
-    ),
+    'ja': (
+        ("/ja/about", "About"),
+        ((('/ja/development', '開発'),
+          ("/ja/interpretation", "通訳")),
+         'Work'),
+        ("/ja/projects", "Projects"),
+        ((('/ja/blog', '記事'),
+          ("/ja/categories/", "タグ"),
+          ("/ja/archive.html", "過去記事一覧"),
+          ("/ja/rss.xml", "RSSフィード")),
+         'Blog'),
+    )
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -977,7 +983,34 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# TODO: eventually, google scholar link as well like https://jiaweizhuang.github.io/blog/nikola-guide/ after github
+CONTENT_FOOTER = '''
+<div class="d-flex w-100 justify-content-between align-items-center">
+    <div>
+        <span class="fa-stack fa-2x">
+        <a href="https://github.com/mindful">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-inverse fa-stack-1x"></i>
+        </a>
+        </span>
+        <span class="fa-stack fa-2x">
+          <a href="https://www.linkedin.com/in/joshuatanner2">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-inverse fa-stack-1x"></i>
+          </a>
+        </span>
+        <span class="fa-stack fa-2x">
+          <a href="mailto:{email}">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-inverse fa-stack-1x"></i>
+          </a>
+        </span>
+    </div>
+    <div>
+        Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}
+    </div>
+</div>
+'''
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1265,7 +1298,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code',
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">'
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
