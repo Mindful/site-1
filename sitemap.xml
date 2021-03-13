@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://joshuatanner.dev/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/" />
  </url>
  <url>
@@ -21,7 +21,7 @@
  </url>
  <url>
   <loc>https://joshuatanner.dev/archive.html</loc>
-  <lastmod>2021-03-09T14:12:00Z</lastmod>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/blog/</loc>
@@ -34,7 +34,6 @@
  <url>
   <loc>https://joshuatanner.dev/development/</loc>
   <lastmod>2021-03-07T13:25:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/development/" />
  </url>
  <url>
   <loc>https://joshuatanner.dev/galleries/</loc>
@@ -43,11 +42,10 @@
  <url>
   <loc>https://joshuatanner.dev/interpretation/</loc>
   <lastmod>2021-03-07T13:25:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/interpretation/" />
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/2021/</loc>
@@ -59,7 +57,7 @@
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/archive.html</loc>
-  <lastmod>2021-03-09T14:12:00Z</lastmod>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/blog/</loc>
@@ -91,6 +89,14 @@
   <lastmod>2021-03-07T13:11:00Z</lastmod>
  </url>
  <url>
+  <loc>https://joshuatanner.dev/ja/technical/</loc>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/ja/translation/</loc>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://joshuatanner.dev/listings/</loc>
   <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
@@ -102,5 +108,15 @@
   <loc>https://joshuatanner.dev/projects/</loc>
   <lastmod>2021-03-07T13:11:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/projects/" />
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/technical/</loc>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/technical/" />
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/translation/</loc>
+  <lastmod>2021-03-13T00:31:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/translation/" />
  </url>
 </urlset>
