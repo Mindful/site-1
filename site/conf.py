@@ -142,7 +142,6 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/about", "About"),
         ((('/technical', 'Software'),
           ("/translation", "Interpretation")),
          'Work'),
@@ -154,7 +153,6 @@ NAVIGATION_LINKS = {
          'Blog'),
     ),
     'ja': (
-        ("/ja/about", "About"),
         ((('/ja/technical', 'ソフト開発'),
           ("/ja/translation", "通訳と翻訳")),
          'Work'),
