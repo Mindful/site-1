@@ -17,11 +17,10 @@
  <url>
   <loc>https://joshuatanner.dev/about/</loc>
   <lastmod>2021-03-07T13:25:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/about/" />
  </url>
  <url>
   <loc>https://joshuatanner.dev/archive.html</loc>
-  <lastmod>2021-03-13T00:31:00Z</lastmod>
+  <lastmod>2021-03-13T13:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/blog/</loc>
@@ -32,16 +31,8 @@
   <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
-  <loc>https://joshuatanner.dev/development/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
- </url>
- <url>
   <loc>https://joshuatanner.dev/galleries/</loc>
   <lastmod>2021-03-07T05:55:00Z</lastmod>
- </url>
- <url>
-  <loc>https://joshuatanner.dev/interpretation/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/</loc>
@@ -57,7 +48,7 @@
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/archive.html</loc>
-  <lastmod>2021-03-13T00:31:00Z</lastmod>
+  <lastmod>2021-03-13T13:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/blog/</loc>
@@ -68,16 +59,8 @@
   <lastmod>2021-03-07T05:55:00Z</lastmod>
  </url>
  <url>
-  <loc>https://joshuatanner.dev/ja/development/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
- </url>
- <url>
   <loc>https://joshuatanner.dev/ja/galleries/</loc>
   <lastmod>2021-03-07T05:55:00Z</lastmod>
- </url>
- <url>
-  <loc>https://joshuatanner.dev/ja/interpretation/</loc>
-  <lastmod>2021-03-07T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/posts/test-post/</loc>
