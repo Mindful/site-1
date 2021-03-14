@@ -1302,7 +1302,16 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code',
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">'
+EXTRA_HEAD_DATA = '''<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DNWSN122JK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DNWSN122JK');
+</script>'''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
