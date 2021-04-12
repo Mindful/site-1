@@ -7,12 +7,16 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://joshuatanner.dev/</loc>
-  <lastmod>2021-03-14T10:41:00Z</lastmod>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://joshuatanner.dev/ja/" />
  </url>
  <url>
+  <loc>https://joshuatanner.dev/2021/</loc>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://joshuatanner.dev/archive.html</loc>
-  <lastmod>2021-03-14T09:41:00Z</lastmod>
+  <lastmod>2021-04-12T09:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/blog/</loc>
@@ -28,11 +32,15 @@
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/</loc>
-  <lastmod>2021-03-14T09:42:00Z</lastmod>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/ja/2021/</loc>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/archive.html</loc>
-  <lastmod>2021-03-14T09:41:00Z</lastmod>
+  <lastmod>2021-04-12T09:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/blog/</loc>
@@ -45,6 +53,19 @@
  <url>
   <loc>https://joshuatanner.dev/ja/galleries/</loc>
   <lastmod>2021-03-07T05:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/ja/posts/classifying-of-grammatical-errors/</loc>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/ja/posts/error-categories/</loc>
+  <lastmod>2021-03-28T12:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://joshuatanner.dev/posts/error-categories/" />
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/ja/posts/seiken-article/</loc>
+  <lastmod>2021-04-04T12:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/ja/projects/</loc>
@@ -61,6 +82,18 @@
  <url>
   <loc>https://joshuatanner.dev/listings/</loc>
   <lastmod>2021-03-07T05:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/posts/classifying-of-grammatical-errors/</loc>
+  <lastmod>2021-03-27T13:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/posts/error-categories/</loc>
+  <lastmod>2021-03-28T12:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://joshuatanner.dev/posts/seiken-article/</loc>
+  <lastmod>2021-04-04T12:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://joshuatanner.dev/projects/</loc>
