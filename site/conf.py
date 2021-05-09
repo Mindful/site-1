@@ -981,7 +981,6 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-# TODO: eventually, google scholar link as well like https://jiaweizhuang.github.io/blog/nikola-guide/ after github
 CONTENT_FOOTER = '''
 <div class="d-flex w-100 justify-content-between align-items-center flex-wrap">
     <div>
@@ -989,6 +988,12 @@ CONTENT_FOOTER = '''
         <a href="https://github.com/mindful">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-github fa-inverse fa-stack-1x"></i>
+        </a>
+        </span>
+        <span class="fa-stack fa-2x">
+        <a href="https://scholar.google.com/citations?user=OqYthY0AAAAJ&h">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="ai ai-google-scholar-square ai-inverse ai-stack-1x"></i>
         </a>
         </span>
         <span class="fa-stack fa-2x">
@@ -1303,6 +1308,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code',
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = '''<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DNWSN122JK"></script>
 <script>
@@ -1311,7 +1317,8 @@ EXTRA_HEAD_DATA = '''<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.co
   gtag('js', new Date());
 
   gtag('config', 'G-DNWSN122JK');
-</script>'''
+</script>
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.7.570/build/pdf.min.js"></script>'''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)

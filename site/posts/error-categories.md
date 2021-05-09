@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: categorizing grammatical error explanations
 .. type: text
 -->
 
